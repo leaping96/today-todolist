@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "오늘할일",
+    "description": "React Native 할일리스트 만들어보기",
+    "slug": "today-todolist",
+    "privacy": "public",
+    "sdkVersion": "37.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#819FF7"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "leaping96.github.io"
+    }
+  }
+}

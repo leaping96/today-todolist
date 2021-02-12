@@ -1,2 +1,3 @@
-# today-todolist
-리액트 네이티브로 할일리스트 어플 만들어보기! 
+# Kawai To Do
+
+Kawai To Do App made with React Native
