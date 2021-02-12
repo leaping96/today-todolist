@@ -1,3 +1,3 @@
-# Kawai To Do
+# Today To Do
 
-Kawai To Do App made with React Native
+React Native 로 제작된 할일리스트 어플이다
